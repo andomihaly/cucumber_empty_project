@@ -9,8 +9,8 @@ public class JunitFrameworksSetUpTest {
     public void TestSetUpIsOK(){
         assertEquals(true, true);
     }
-    @Test
-    public void TestSetUpIsNotOK(){
-        assertEquals(true, false);
-    }
+ //   @Test
+ //   public void TestSetUpIsNotOK(){
+ //       assertEquals(true, false);
+ //   }
 }
